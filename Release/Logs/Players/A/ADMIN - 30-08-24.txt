@@ -1,0 +1,128 @@
+
+21:26:15 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (67:13:31:2F:5B:48). ClientId: 1
+21:26:15 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+21:26:15 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:26:15 : A próxima missão acontecerá em aproximadamente 37 minutos
+21:26:16 : [INFORMAÇÕES DA CONTA]
+Personagem na seleção de personagem. Sem informações no momento
+Tempo online até o momento: 00 dias e 00:00:01 horas
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:26:35 : Enviou senha numérica correta. 
+21:29:23 : Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:29:23 : Personagem foi desconectado. Permaneceu 00:03:07 minutos online
+21:36:03 : =========================== NOVA SESSÃO ==========================
+Tentativa de logar na conta - IP: 127.0.0.1 Mac: (67:13:31:2F:5B:48). ClientId: 1
+21:36:03 : Usuário logou no jogo com clientId 1. - Servidor 1. Gold do banco: 0
+21:36:03 : [INFORMAÇÕES DO BANCO]
+Gold: 0
+
+21:36:03 : A próxima missão acontecerá em aproximadamente 28 minutos
+21:36:10 : Enviou senha numérica correta. 
+21:36:48 : Solicitou ir ao mundo...
+21:36:48 : Recebido pedido para entrar no jogo
+21:36:48 : Recebido informação do personagem completa.
+21:36:48 : [FM-ADMIN] - [INFORMAÇÕES DA CONTA]
+Personagem online: FM-ADMIN
+Gold atual: 0
+Level atual: 0
+Experiência atual: 0
+Evolução atual: Mortal
+Tempo online até o momento: 00 dias e 00:00:45 horas
+Posição atual: 2112x 2042y
+
+Pontos NT: 0
+Entradas Hall: 0
+Info: 0
+Soul: 0
+Divina: 0/0/0 0:0:0
+Sephira: 0/0/0 0:0:0
+Saude: 0/0/0 0:0:0
+Escritura: 0/0/0 0:0:0
+Revigorante: 0/0/0 0:0:0
+LastGuildKickout: 0/0/0 0:0:0
+[EQUIPAMENTOS]
+[00] - Foema[11] [43 0 11 1 0 0]
+[01] - Bandana_de_Pano(N)[1251] [0 0 0 0 0 0]
+[02] - Túnica_de_Pano(A)[1265] [0 0 0 0 0 0]
+[03] - Saia_de_Pano(A)[1277] [0 0 0 0 0 0]
+[04] - Luvas_de_Pano(A)[1289] [0 0 0 0 0 0]
+[05] - Botas_de_Pano(A)[1301] [0 0 0 0 0 0]
+[06] - Arco_Curto[816] [0 0 0 0 0 0]
+
+[INVENTÁRIO]
+[63] - Marca_do_Assassino[547] [75 0 76 0 77 0]
+
+[USUÁRIOS LOGADOS]
+Nenhuma outra conta logada 
+
+21:36:48 : [FM-ADMIN] - Personagem FM-ADMIN enviado ao mundo 2112x 2042y - Canal 1 - Cash da conta: 0. OverPower: 0
+21:36:48 : [FM-ADMIN] - Gold atual: 0. Classe: 1 Evolução: 1. Experiência: 0. Nível: 0. Info: 0. GuildID: 0. CP: 0. Pontos de Contribuição: 0. Limite: 0
+21:36:48 : [FM-ADMIN] - Resetado a contagem de entradas água! Day: 0-242. Total: 0
+21:36:48 : [FM-ADMIN] - Enviado informações do personagem
+21:36:49 : [FM-ADMIN] - Comando "/day "
+21:36:49 : [FM-ADMIN] - [Mensagem do servidor]> !#11 2
+21:36:49 : [FM-ADMIN] - [Mensagem do servidor]> Este personagem não está conectado.
+21:37:00 : [FM-ADMIN] - O usuário não enviou o pacote de integridade de macaddress
+21:37:04 : [FM-ADMIN] - Matou o mob Porco de Guerra. GenerID: 4423
+21:37:04 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:37:04 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 78
+21:37:04 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:04 : [FM-ADMIN] - Level UP para level 1. Ev: 1 - 2120x 2040y
+21:37:04 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 81
+21:37:04 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:04 : [FM-ADMIN] - Level UP para level 2. Ev: 1 - 2120x 2040y
+21:37:10 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 84
+21:37:10 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:10 : [FM-ADMIN] - Level UP para level 3. Ev: 1 - 2130x 2032y
+21:37:11 : [FM-ADMIN] - Matou o mob Porco de Guerra. GenerID: 4425
+21:37:11 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:37:11 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 87
+21:37:11 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:11 : [FM-ADMIN] - Level UP para level 4. Ev: 1 - 2130x 2032y
+21:37:14 : [FM-ADMIN] - Matou o mob Porco de Guerra. GenerID: 4425
+21:37:14 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:37:14 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 90
+21:37:14 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:14 : [FM-ADMIN] - Level UP para level 5. Ev: 1 - 2129x 2038y
+21:37:16 : [FM-ADMIN] - Matou o mob Porco de Guerra. GenerID: 4423
+21:37:16 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:37:16 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 93
+21:37:16 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:16 : [FM-ADMIN] - Level UP para level 6. Ev: 1 - 2129x 2032y
+21:37:19 : [FM-ADMIN] - Matou o mob Porco de Guerra. GenerID: 4424
+21:37:19 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:37:22 : [FM-ADMIN] - Matou o mob Porco de Guerra. GenerID: 4427
+21:37:22 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 96
+21:37:22 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:37:22 : [FM-ADMIN] - Level UP para level 7. Ev: 1 - 2129x 2032y
+21:37:29 : [FM-ADMIN] - Clicado no NPC [Carbuncle Wind]. Face 230. Race: 8. GenerateId: 4407. Posição do usuário: 2133x 2034y. Posição do NPC: 2133x 2032y
+21:38:44 : [FM-ADMIN] - Matou o mob Gremlin. GenerID: 4441
+21:38:44 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:38:45 : [FM-ADMIN] - Matou o mob Gremlin. GenerID: 4441
+21:38:45 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 99
+21:38:45 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:38:45 : [FM-ADMIN] - Level UP para level 8. Ev: 1 - 2090x 2030y
+21:38:47 : [FM-ADMIN] - Matou o mob Krill. GenerID: 4444
+21:38:47 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:38:48 : [FM-ADMIN] - Matou o mob Gremlin. GenerID: 4444
+21:38:48 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 102
+21:38:48 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:38:48 : [FM-ADMIN] - Level UP para level 9. Ev: 1 - 2090x 2031y
+21:38:49 : [FM-ADMIN] - Matou o mob Gremlin. GenerID: 4444
+21:38:49 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 2/4 de bônus.
+21:38:51 : [FM-ADMIN] - Matou o mob Gremlin. GenerID: 4445
+21:38:51 : [FM-ADMIN] - [Mensagem do servidor]> Adquiriu 3/4 de bônus.
+21:38:51 : [FM-ADMIN] - Dropado item Poção_de_Cura [400] [0 0 0 0 0 0] em 2087x 2024y - Gremlin (1/30)
+21:38:56 : [FM-ADMIN] - Matou o mob Gremlin Artif. GenerID: 4449
+21:38:56 : [FM-ADMIN] - Pontos CP subiu em 3. CP novo: 105
+21:38:56 : [FM-ADMIN] - [Mensagem do servidor]> + + + LEVEL UP + + +
+21:38:56 : [FM-ADMIN] - Level UP para level 10. Ev: 1 - 2081x 2025y
+21:38:56 : [FM-ADMIN] - Dropado item Chave_da_Primeira_Porta [451] [0 0 0 0 0 0] em 2081x 2025y - Gremlin Artif (1/1)
+21:39:26 : [FM-ADMIN] - Recebeu lParam (WndProc) como 32. Erro possível: 10053. Desconectando o usuário.
+21:39:26 : [FM-ADMIN] - Personagem foi desconectado. Permaneceu 00:03:23 minutos online
