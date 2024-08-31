@@ -11,5 +11,8 @@ rem Defina o diretório de trabalho para DataServer e inicie GameServer.exe
 cd "..\GameServer"
 start "Game Server" "GameServer.exe"
 
+rem Defina o diretório de trabalho para DataServer e inicie o launcher do Game
+cd "../../WYDESTINY" ""
+
 echo Iniciado com sucesso!
 exit
